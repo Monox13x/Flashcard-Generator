@@ -9,6 +9,7 @@ function ClozeCard(text,cloze){
         }
         
     }
+    this.brokenCloze()
 
     
 }
